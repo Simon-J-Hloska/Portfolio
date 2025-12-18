@@ -2,7 +2,7 @@
 
 ## LensCull — Image Similarity Checker
 
-**Repository:** [https://github.com/simon9834/LensCull](https://github.com/simon9834/LensCull)
+**Repository:** [https://github.com/simon9834/LensCull](https://github.com/Simon-J-Hloska/LensCull)
 
 ### Overview
 
