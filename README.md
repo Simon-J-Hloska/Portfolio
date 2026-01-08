@@ -1,45 +1,26 @@
 # Portfolio
 
-## LensCull — Image Similarity Checker
+## Table of contents
 
-**Repository:** [https://github.com/simon9834/LensCull](https://github.com/Simon-J-Hloska/LensCull)
+- [Orders Management Application](#orders-management-application)
+  - [Overview](#overview)
+- [LensCull, Image Similarity Checker](#lenscull-—-image-similarity-checker)
+  - [Overview](#overview-1)
+
+## Orders Management Application 
 
 ### Overview
 
-LensCull is a Python-based application for computing visual similarity between images. It is designed to identify near-duplicates and assess image quality across datasets using perceptual techniques and statistical comparisons. The project emphasizes clean architecture, testability, and performance.
+**Orders Management Application** is a console-based application for managing orders, customers, and products using Python 3 and MySQL.
+The application provides an easy way to manage data, import CSV/JSON files, and generate reports.
 
-### Core Capabilities
+**Repository:** [My_Order_managment_project(https://github.com/Simon-J-Hloska/RDBMS)]
 
-* Image similarity detection using perceptual hashing (pHash)
-* Histogram-based comparison for visual analysis
-* Parallel processing for scalable workloads
-* Quality assessment utilities
-* Web-based interface for interaction
-* Structured logging and configuration management
 
-### Technology
+## LensCull — Image Similarity Checker
 
-* Python 3.8+
-* NumPy
-* Pillow (PIL)
-* Parallel execution
-* Unit testing framework
+### Overview
 
-### Architecture Summary
+**LensCull** is a Python-based application for computing visual similarity between images. It is designed to identify near-duplicates and assess image quality across datasets using perceptual techniques and statistical comparisons. The project emphasizes clean architecture, testability, and performance.
 
-The project follows a modular structure with clear separation of concerns:
-
-* **Processing layer:** image loading, quality analysis, similarity computation
-* **Exception handling:** custom, domain-specific errors
-* **Testing suite:** unit tests covering core functionality
-* **Web layer:** lightweight server and HTML interface
-
-This organization supports maintainability, extensibility, and reliable testing.
-
-### Execution
-
-Dependencies are managed via `requirements.txt`. Images are placed in the designated data directory and processed through the main application entry point.
-
-### Purpose and Outcome
-
-LensCull demonstrates practical application of image processing concepts, parallel computation, and software engineering best practices. It reflects an approach focused on clarity, correctness, and real-world usability.
+**Repository:** [My_lensCull_project(https://github.com/Simon-J-Hloska/LensCull)]
