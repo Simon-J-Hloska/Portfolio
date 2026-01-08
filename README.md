@@ -1,6 +1,7 @@
 # Portfolio
 <br>
 <br>
+
 ## Table of contents
 
 - [Orders Management Application](#orders-management-application)
@@ -12,6 +13,7 @@
 <br>
 ## Orders Management Application 
 <br>
+
 ### Overview
 
 **Orders Management Application** is a console-based application for managing orders, customers, and products using Python 3 and MySQL.
@@ -23,6 +25,7 @@ The application provides an easy way to manage data, import CSV/JSON files, and 
 <br>
 ## LensCull — Image Similarity Checker
 <br>
+
 ### Overview
 
 **LensCull** is a Python-based application for computing visual similarity between images. It is designed to identify near-duplicates and assess image quality across datasets using perceptual techniques and statistical comparisons. The project emphasizes clean architecture, testability, and performance.
