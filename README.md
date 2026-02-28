@@ -7,7 +7,7 @@
   - [Overview](#overview)
 - [LensCull, Image Similarity Checker](#lenscull-—-image-similarity-checker)
   - [Overview](#overview-1)
-- [Face Recognition System](#face-recognition-system-(raspberry-Pi))
+- [Face Recognition System](#face-recognition-system-raspberry-pi)
   - [Overview](#overview-2)
 <br>
 
