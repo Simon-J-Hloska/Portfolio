@@ -7,6 +7,8 @@
   - [Overview](#overview)
 - [LensCull, Image Similarity Checker](#lenscull-—-image-similarity-checker)
   - [Overview](#overview-1)
+- [Face Recognition System](#face-recognition-system-(raspberry-Pi))
+  - [Overview](#overview-2)
 <br>
 
 ## Orders Management Application 
